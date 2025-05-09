@@ -1,0 +1,14 @@
+npm init
+then create index.js
+then go in mongodb and create database
+db.createCoolection('profile')
+db.profile.insertone({name:'rohit',email:'sfs',city:'nashik'})
+then create mongodb.js that is already present 
+then fire npm i mongodb
+then npm i express
+then paste code in mongodb and index.js
+then node index.js
+then go to postman and past your localhost
+in put api just add the name after localhostwebsite
+then node index.js
+
