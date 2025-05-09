@@ -1,0 +1,3 @@
+docker --version
+node shubham.js
+docker build -t 2b .
