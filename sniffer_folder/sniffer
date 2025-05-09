@@ -1,0 +1,5 @@
+i use my ethernet network in practical change that wlan0
+
+to exexute python script
+sudo ./env/bin/python sniffer.py
+
